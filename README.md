@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @fa899
+- 👀 I’m interested in Scripting (i kinda suck at scripting)
+- 🌱 I’m currently learning scripting
+- 💞️ I’m looking to collaborate on (idk what to say)
+- 📫 How to reach me (idk)
