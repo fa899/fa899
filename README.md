@@ -1,5 +1,11 @@
-- 👋 Hi, I’m @fa899
-- 👀 I’m interested in Scripting (i kinda suck at scripting)
-- 🌱 I’m currently learning scripting
-- 💞️ I’m looking to collaborate on (idk what to say)
-- 📫 How to reach me (idk)
+Hello!
+
+I am fa899.
+
+I mostly script Lua, sometimes JavaScript.
+
+Check out my Alt Account [RoasterLmao](https://github.com/RoasterLmao/)
+
+Yes, I am the owner of Ruby AntiCheat.
+
+For more information about RubyAnticheat, visit this: [RubyAntiCheat](https://roasterlmao.github.io)
